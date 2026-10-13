@@ -1,6 +1,6 @@
 # Partho Baruah
 
-Trade Support Engineer | Trading Systems Architecture, Risk Automation & TradeOps
+Trade Support Engineer | Trading Systems Architecture, Risk Automation, TradeOps & Algorithmic Trading
 
 Portfolio & Live Telemetry: https://sigmaquant.space  
 LinkedIn: https://linkedin.com/in/parthobaruah  
